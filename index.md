@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome! I'm a PhD Candidate in the Economics Department at Columbia University. 
+Welcome! I'm a Master Candidate in the Finance Department at Sun Yet-san University. 
 
 My primary field is *Macroeconomics* and my research stresses the importance of risk in the context of informal labor markets. 
 
