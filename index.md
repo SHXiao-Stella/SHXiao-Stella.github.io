@@ -1,8 +1,7 @@
-# SHUHUA
-## Welcome!
+# Welcome!
 
 I’m a Master Candidate in the Finance Department at Sun Yet-san University.
-My primary research fields is systemic risk. I also have interests in portfolio selection and machine learning.
+| My primary research fields is systemic risk. I also have interests in portfolio selection and machine learning.
 
 ## Research 
 
