@@ -1,6 +1,6 @@
 # Welcome!
 
-I’m a Master Candidate in the Finance Department at Sun Yet-san University.
+I’m a Master Candidate in the Department of Finance and Investment at Sun Yet-san University.
 
 My primary research fields is systemic risk. I also have interests in portfolio selection and machine learning.
 
