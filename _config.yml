@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Shuhua Xiao
+author:
+  name: Shuhua Xiao
+  email: your-email@domain.com
 picture: ![](https://github.com/SHXiao-Stella/SHXiao-Stella.github.io/blob/main/myimage.jpg)
