@@ -18,17 +18,3 @@ My primary research interests lie in systemic risk. I've researched how credit a
 
 ## Contact Information 
 You can reach me at <sydyx2016@163.com>.
-
-<html>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Minimal</h1>
-        <p>A Theme for GitHub Pages</p>
-        <p class="view"><a href="http://github.com/orderedlist/minimal">View the Project on GitHub <small>orderedlist/minimal</small></a></p>
-        <ul>
-          <li><a href="https://github.com/orderedlist/minimal/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/orderedlist/minimal/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="http://github.com/orderedlist/minimal">Fork On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
