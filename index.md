@@ -17,4 +17,4 @@ My primary research interests lie in systemic risk. I've researched how credit a
   + My bilibili page can be found [here](https://space.bilibili.com/388356166/video), which contents my original videos and so on.
 
 ## Contact Information 
-You can reach me at sydyx2016@163.com <a href="sydyx2016@163.com">Email</a>.
+You can reach me at <sydyx2016@163.com>.
