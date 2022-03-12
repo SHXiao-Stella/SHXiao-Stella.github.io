@@ -9,15 +9,12 @@ My primary research interests lie in systemic risk. I've researched how credit a
   + Bachelor of Financial Management, School of Business, Sun Yat-sen University.
 
 ## Research 
-  + Xiao S.S, Zhu S.S, Wu Y. [Credit Asset Securitization, Cross Holdings, and Systemic Risk in Banking](http://dx.doi.org/10.2139/ssrn.4018464).
-  + Xiao S.S. Oops I Took A Gradient: Optimal Bank Bailouts via Neural Network（Working paper）
+  + Xiao S.H, Zhu S.S, Wu Y. [Credit Asset Securitization, Cross Holdings, and Systemic Risk in Banking](http://dx.doi.org/10.2139/ssrn.4018464).
+  + Xiao S.H. Oops I Took A Gradient: Optimal Bank Bailouts via Neural Network（Working paper）
 
 ## Miscellanea
-  My github page can be found [here](https://github.com/SHXiao-Stella). It includes: 
-  + The [source code](https://github.com/SHxiao-Stella/SHxiao-Stella.github.io) of this website;
-  + Other coding 
-
-  My bilibili page can be found [here](https://space.bilibili.com/388356166/video), which contents my original videos and so on.
+  + My github page can be found [here](https://github.com/SHXiao-Stella). It includes: 
+  + My bilibili page can be found [here](https://space.bilibili.com/388356166/video), which contents my original videos and so on.
 
 ## Contact Information 
 You can reach me at sydyx2016@163.com.
