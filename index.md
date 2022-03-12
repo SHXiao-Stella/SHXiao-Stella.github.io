@@ -13,10 +13,8 @@ My primary research interests lie in systemic risk. I've researched how credit a
   + Xiao S.H. Oops I Took A Gradient: Optimal Bank Bailouts via Neural Network（Working paper）
 
 ## Miscellanea
-  + My github page can be found [here](https://github.com/SHXiao-Stella). It includes: 
+  + My github page can be found [here](https://github.com/SHXiao-Stella).
   + My bilibili page can be found [here](https://space.bilibili.com/388356166/video), which contents my original videos and so on.
 
 ## Contact Information 
-You can reach me at sydyx2016@163.com.
-
-
+You can reach me at sydyx2016@163.com <a href="sydyx2016@163.com">Email</a>.
