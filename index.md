@@ -32,5 +32,3 @@ You can reach me at <sydyx2016@163.com>.
           <li><a href="http://github.com/orderedlist/minimal">Fork On <strong>GitHub</strong></a></li>
         </ul>
       </header>
-   </body>
- </html>
