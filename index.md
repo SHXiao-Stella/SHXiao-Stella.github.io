@@ -1,4 +1,4 @@
-# Welcome! ![](https://visitor-badge.glitch.me/badge?page_id=SHXiao-Stella.readme)
+# Welcome! 
 
 I’m a Master Candidate in the Department of Finance and Investment at Sun Yet-san University.
 
