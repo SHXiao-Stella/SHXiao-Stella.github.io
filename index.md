@@ -21,5 +21,3 @@ My primary research fields is systemic risk. I also have interests in portfolio 
 
 ## Contact Information 
 You can reach me at sydyx2016@163.com.
-
-## ![](https://visitor-badge.glitch.me/badge?page_id=SHXiao-Stella.readme)
