@@ -17,7 +17,7 @@ My primary research interests lie in systemic risk. I've researched how asset se
   + Bachelor of Financial Management, School of Business, Sun Yat-sen University.
 
 ## Research 
-  + Xiao S.H, [Zhu S.S.](https://bus.sysu.edu.cn/en/teacher/ZhuShushang), [Wu Y](https://www.ying-wu.net/cv). [Asset Securitization, Cross Holdings, and Systemic Risk in Banking](http://dx.doi.org/10.2139/ssrn.4018464).
+  + Xiao S.H, [Zhu S.S.](https://bus.sysu.edu.cn/en/teacher/ZhuShushang), [Wu Y](https://www.ying-wu.net/cv). [Asset Securitization, Cross Holdings, and Systemic Risk in Banking](https://doi.org/10.1016/j.jfs.2023.101140) [(SSRN Version)](http://dx.doi.org/10.2139/ssrn.4018464).
   + Xiao S.H. [Ma J.L.](https://cbds.gufe.edu.cn/info/1044/2255.htm), [Xia L.](https://bus.sysu.edu.cn/en/teacher/XiaLi), [Zhu S.S.](https://bus.sysu.edu.cn/en/teacher/ZhuShushang) [Optimal Systemic Risk Bailout: A PGO Approach Based on Neural Network](http://arxiv.org/abs/2212.05235)
 
 ## Miscellanea
