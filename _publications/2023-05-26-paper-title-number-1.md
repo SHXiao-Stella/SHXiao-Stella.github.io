@@ -1,4 +1,4 @@
-.---
+---
 title: "Asset Securitization, Cross Holdings, and Systemic Risk in Banking"
 collection: publications
 permalink: /publication/2023-05-26-paper-title-number-1
