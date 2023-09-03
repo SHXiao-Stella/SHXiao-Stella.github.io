@@ -9,4 +9,4 @@ location: "HongKong, China"
 ---
 A brief note about *A First Course in Bayesian Statistical Methods*.
 
-Download here: <a href="SHXiao-Stella.github.io/_teaching/Peter_Hoff_notes.pdf" target="_blank">PDF.</a>
+Download here: <a href="/Peter_Hoff_notes.pdf" target="_blank">PDF.</a>
