@@ -7,6 +7,6 @@ venue: "Bayesian Theory"
 date: 2023-09-03
 location: "HongKong, China"
 ---
-A brief note about *A First Course in Bayesian Statistical Methods*.
+A brief note about [*A First Course in Bayesian Statistical Methods*](https://pdhoff.github.io/book/).
 
 [Download notes here](http://SHXiao-Stella.github.io/files/Peter_Hoff_notes.pdf)
