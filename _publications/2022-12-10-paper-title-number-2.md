@@ -1,5 +1,5 @@
 ---
-title: "Systemic Risk Bailout: A PGO Approach Based on Neural Network"
+title: "(Working paper)Systemic Risk Bailout: A PGO Approach Based on Neural Network"
 collection: publications
 permalink: /publication/2022-12-10-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
@@ -12,4 +12,4 @@ Abstract: The bailout strategy is crucial to cushion the massive loss caused by 
 
 [Download paper here](http://arxiv.org/abs/2212.05235)
 
-Recommended citation: Shuhua Xiao, Jiali Ma, Li Xia, Shushang Zhu. (2022). "Systemic Risk Bailout: A PGO Approach Based on Neural Network2." <i>Journal 1</i>. 1(2).
+Recommended citation: Shuhua Xiao, Jiali Ma, Li Xia, Shushang Zhu. (2022). "Systemic Risk Bailout: A PGO Approach Based on Neural Network2." <i>arxiv</i>. 2212.05235.
