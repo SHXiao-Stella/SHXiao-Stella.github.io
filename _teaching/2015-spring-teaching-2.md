@@ -1,20 +1,14 @@
 ---
-title: "Note of Basic Optimization"
+title: "Note of Basic Optimization (...coming soon)"
 collection: teaching
-type: "Workshop"
+type: "My own note"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Optimization (in Finance)"
 date: 2023-01-01
 location: "Guangzhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A rough note for the optimization in finance.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
+(...coming soon)
 ======
