@@ -1,7 +1,7 @@
 ---
 title: "Asset Securitization, Cross Holdings, and Systemic Risk in Banking"
 collection: publications
-permalink: /publication/2023-05-26-paper-title-number-1
+permalink: /publication/2023-05-26-paper-title-number-3
 excerpt: 'Abstract: We present a theoretical framework for studying how the cross holdings of asset securitization products may affect systemic risk in banking. We demonstrate that cross holdings can be understood from the perspective of profit seeking and credit creation; these motives drive up banks’ leverage. We also show that the capital adequacy ratio regulatory constraint may become invalid with cross holdings, which adversely impacts the monitoring of the stability of a system. We demonstrate that, generally, the impact of asset securitization on systemic risk is nonmonotonic and critically hinges on the banking asset structure, cross-holding degree among banks, and asset securitization characteristics including its state of risk retention. We empirically examine theoretical predictions using a comprehensive set of data from 27 countries/regions spanning the past 15 years.'
 date: 2023-05-26
 venue: 'Journal of Financial Stability (ABS 3*)'
