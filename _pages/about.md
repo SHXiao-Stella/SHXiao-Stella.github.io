@@ -19,8 +19,8 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
   + Bachelor of Financial Management, School of Business, Sun Yat-sen University.
 
 ## Working papers
-  + Schrödinger's Sparsity in the Cross-Section of Stock Returns (with: Doron Avramov, Guanhao Feng, Jingyu He)
-  + Identifying Anomalies: A New Approach (with: Siddhartha Chib, Lingxiao Zhao)
+  + Schrödinger's Sparsity in the Cross-Section of Stock Returns (with: [Doron Avramov](https://faculty.runi.ac.il/davramov/), [Guaohao Feng](https://gavinfeng702.com/), [Jingyu He](https://jingyuhe.com/))
+  + Identifying Anomalies: A New Approach (with: [Siddhartha Chib](https://apps.olin.wustl.edu/faculty/chib/), [Lingxiao Zhao](http://zhaolingxiao.com/))
 
 ## Other Publications and working papers (before PhD)
   + Xiao S.H, [Zhu S.S.](https://bus.sysu.edu.cn/en/teacher/ZhuShushang), [Wu Y](https://www.stevens.edu/profile/ywu4). [Asset Securitization, Cross Holdings, and Systemic Risk in Banking.](https://doi.org/10.1016/j.jfs.2023.101140) Journal of Financial Stability, 2023: 101140. 
