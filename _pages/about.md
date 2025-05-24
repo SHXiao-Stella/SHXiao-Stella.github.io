@@ -23,7 +23,7 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 ## Working papers
   + Schrödinger's Sparsity in the Cross-Section of Stock Returns (with: [Doron Avramov](https://faculty.runi.ac.il/davramov/), [Guaohao Feng](https://gavinfeng702.com/), [Jingyu He](https://jingyuhe.com/))
     + 2025CICF*
-    + Slide
+    + [Slide](files/sparse/BayesIPCA_2505.pdf)
   + Factors or Fake? A New Look at Anomalies and the Replication Crisis (with: [Siddhartha Chib](https://apps.olin.wustl.edu/faculty/chib/), [Lingxiao Zhao](http://zhaolingxiao.com/))
     + Poster
 
