@@ -23,7 +23,9 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 ## Working papers
   + Schrödinger's Sparsity in the Cross-Section of Stock Returns (with: [Doron Avramov](https://faculty.runi.ac.il/davramov/), [Guaohao Feng](https://gavinfeng702.com/), [Jingyu He](https://jingyuhe.com/))
     + 2025CICF*
+    + Slide
   + Factors or Fake? A New Look at Anomalies and the Replication Crisis (with: [Siddhartha Chib](https://apps.olin.wustl.edu/faculty/chib/), [Lingxiao Zhao](http://zhaolingxiao.com/))
+    + Poster
 
 ## Other Publications and working papers (before PhD)
   + **Xiao S.H.**, [Zhu S.S.*](https://bus.sysu.edu.cn/en/teacher/ZhuShushang), [Wu Y](https://www.stevens.edu/profile/ywu4). [Asset Securitization, Cross Holdings, and Systemic Risk in Banking.](https://doi.org/10.1016/j.jfs.2023.101140) Journal of Financial Stability (ABS 3*), 2023. 
@@ -41,4 +43,4 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
   + Chinese(Native), English, Cantonese
 
 ## Contact Information 
-You can reach me at <sydyx2016@163.com>.
+You can reach me at <shxiao3-c@my.cityu.edu.hk>.
