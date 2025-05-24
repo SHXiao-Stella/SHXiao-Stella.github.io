@@ -25,7 +25,7 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 
 ## Other Publications and working papers (before PhD)
   + **Xiao S.H.**, [Zhu S.S.*](https://bus.sysu.edu.cn/en/teacher/ZhuShushang), [Wu Y](https://www.stevens.edu/profile/ywu4). [Asset Securitization, Cross Holdings, and Systemic Risk in Banking.](https://doi.org/10.1016/j.jfs.2023.101140) Journal of Financial Stability (ABS 3*), 2023. 
-  + __Xiao S.H.*__, [Ma J.L.](https://cbds.gufe.edu.cn/info/1044/2255.htm), 信贷资产证券化、银行关联水平与系统性风险, 系统工程学报, Forthcoming.
+  <!-- + __Xiao S.H.*__, [Ma J.L.](https://cbds.gufe.edu.cn/info/1044/2255.htm), 信贷资产证券化、银行关联水平与系统性风险, 系统工程学报, Forthcoming. -->
   + [Li S.X.](https://business.xtu.edu.cn/index.jsp?cc=cshizidw&cd=teacher&ac=view&id=100315), [Pang X.C](https://fof.cityu.edu.mo/en/list-13/707), [Ma J.L.](https://cbds.gufe.edu.cn/info/1044/2255.htm), **Xiao S.H.**, [Zhu S.S.*](https://bus.sysu.edu.cn/en/teacher/ZhuShushang) [地方政府隐性债务与银行体系系统性风险——基于地方融资平台视角的研究](https://kns.cnki.net/kcms/detail/11.2267.n.20240805.1740.008.html) 系统工程理论与实践, 2024.
   + **Xiao S.H.** [Ma J.L.](https://cbds.gufe.edu.cn/info/1044/2255.htm), [Xia L.](https://bus.sysu.edu.cn/en/teacher/XiaLi), [Zhu S.S.*](https://bus.sysu.edu.cn/en/teacher/ZhuShushang) [Optimal Systemic Risk Bailout: A PGO Approach Based on Neural Network](http://arxiv.org/abs/2212.05235).
 
