@@ -1,6 +1,6 @@
 ---
 title: "(Working paper)Identifying Anomalies: A New Approach"
-collection: publications
+collection: workingpaper
 permalink: /publication/2025-05-18-paper-title-number-2
 excerpt: 'Abstract: coming soon...'
 # date: 2022-12-10
