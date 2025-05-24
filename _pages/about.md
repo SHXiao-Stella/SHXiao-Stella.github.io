@@ -16,7 +16,9 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 ## Education
   + Phd, Department of Decision Analytics and Operations, City University of Hong Kong. Mentor: [Jingyu He](https://jingyuhe.com/), [Guaohao Feng](https://gavinfeng702.com/)
   + Master of Finance, School of Business, Sun Yat-sen University. Mentor: [Shushang Zhu](https://bus.sysu.edu.cn/en/teacher/ZhuShushang)
+    + Excellent Graduate
   + Bachelor of Financial Management, School of Business, Sun Yat-sen University.
+    + Excellent Thesis
 
 ## Working papers
   + Schrödinger's Sparsity in the Cross-Section of Stock Returns (with: [Doron Avramov](https://faculty.runi.ac.il/davramov/), [Guaohao Feng](https://gavinfeng702.com/), [Jingyu He](https://jingyuhe.com/))
