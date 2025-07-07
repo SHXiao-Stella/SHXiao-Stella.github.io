@@ -50,6 +50,7 @@
 .author__name-en {
   font-family: 'Lora', serif;
   font-style: italic;    /* 斜体 */
+  font-weight: 700;
   font-size: 1.25em;
 }
 
@@ -64,8 +65,13 @@
 //     font-size: 1.25em;
 // }
 
+// .author__name-zh {
+//   font-family: 'Noto Serif SC', 'KaiTi', 'STKaiti', 'Songti SC', 'Microsoft YaHei', serif;
+//   font-size: 1.25em;
+// }
+
 .author__name-zh {
-  font-family: 'Noto Serif SC', 'KaiTi', 'STKaiti', 'Songti SC', 'Microsoft YaHei', serif;
+  font-family: 'Zhi Mang Xing', 'Ma Shan Zheng', 'Noto Serif SC', 'KaiTi', 'STKaiti', 'Songti SC', 'Microsoft YaHei', serif;
   font-size: 1.25em;
 }
-  
+// 繁体：Klee One ，Yuji Syuku
