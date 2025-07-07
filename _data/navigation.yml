@@ -3,11 +3,18 @@ main:
 - title: "Research"
   url: /research/
 
-- title: "Curriculum Vitae"
+# - title: "Curriculum Vitae"
+- title: "CV"
   url: /cv/
 
-- title: "Notes"
-  # url: /notes/
+- title: "Note"
+  url: /note/
+
+- title: "Honor"
+  url: /honor/
+
+# - title: "Miscellanea"
+#   url: /miscellanea/
 
 #- title: "Working Papers"
 #    url: /teaching/   
@@ -20,9 +27,6 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
-#  - title: "CV"
-#    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/

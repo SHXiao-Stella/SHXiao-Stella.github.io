@@ -4,6 +4,9 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+<!-- shuhua -->
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
@@ -14,9 +17,19 @@
     {% endif %}
   </div>
 
-  <div class="author__content">
+  <!-- <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+  </div> -->
+
+  <div class="author__content">
+    <h3 class="author__name">
+      <span class="author__name-en">{{ author.name_en }}</span><br>
+      <span class="author__name-zh">{{ author.name_zh }}</span>
+    </h3>
+    {% if author.bio %}
+      <p class="author__bio">{{ author.bio }}</p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Web"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xiao Shuhua"
 description              : #&description "Researcher"
@@ -80,10 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuhua Xiao"
+  # name             : "Shuhua Xiao"
+  name_en          : "Shuhua Xiao"
+  name_zh          : "肖书华"
   avatar           : "profile_yuyuan.png" #"profile.png"
-  bio              : "Welcome!"
-  location         : "China"
+  # bio              : " Welcome!"
+  # bio              : "Give civilization to time."
+  bio              : "Give myself to time."
+  location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"

@@ -39,3 +39,28 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+// @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+// .author__name-en {
+//   font-family: 'Montserrat', sans-serif;
+// }
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@0,400;0,700;1,400;1,700&display=swap');
+.author__name-en {
+  font-family: 'Lora', serif;
+  font-style: italic;    /* 斜体 */
+  font-size: 1.25em;
+}
+
+// .author__name-en {
+//     /* 英文名用默认字体或你原来的字体 */
+//     font-family: system-ui, sans-serif;
+//   }
+.author__name-zh {
+    /* 中文名字单独用 Noto Serif SC */
+    // font-family: 'Noto Serif SC', serif;
+    font-family: KaiTi, '楷体', 'STKaiti', serif;
+    font-size: 1.25em;
+}
+  
