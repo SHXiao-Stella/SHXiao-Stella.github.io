@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- <img src="images/sleepbaby.jpg" alt="Profile Image" width="500" height="500" style="display: block; margin: 0 auto;" /> -->
-<img src="/images/sleepbaby.jpg" alt="Profile Image" width="300" height="300" />
+<!-- <img src="/images/sleepbaby.jpg" alt="Profile Image" width="300" height="300" /> -->
 <!-- <div style="position: relative; display: inline-block;">
   <img src="/images/sleepbaby.jpg" alt="Profile Image" width="300" height="300" style="display: block;" />
   <div style="position: absolute; bottom: 10px; right: 10px; font-style: italic; color: #d3d3d3; font-size: 14px;">Sleeping Child, Weishan Wu, 1998</div>
