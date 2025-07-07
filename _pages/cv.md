@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2023-present, Phd, Department of Decision Analytics and Operations, City University of Hong Kong. Mentor: [Jingyu He](https://jingyuhe.com/), [Guaohao Feng](https://gavinfeng702.com/)
+* 2020-2023, Master of Finance, School of Business, Sun Yat-sen University. Mentor: [Shushang Zhu](https://bus.sysu.edu.cn/en/teacher/ZhuShushang)
+* 2016-2020, Bachelor of Financial Management, School of Business, Sun Yat-sen University.
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,18 +25,18 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
