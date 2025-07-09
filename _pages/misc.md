@@ -2,7 +2,7 @@
 layout: archive
 # title: "Notes"
 title: " "
-permalink: /miscellanea/
+permalink: /misc/
 author_profile: true
 ---
 
