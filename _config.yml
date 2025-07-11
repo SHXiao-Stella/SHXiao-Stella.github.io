@@ -179,7 +179,7 @@ exclude:
   - Capfile
   - config
   - Dockerfile
-  # - Gemfile
+  - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
