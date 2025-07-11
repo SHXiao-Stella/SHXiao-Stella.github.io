@@ -11,8 +11,8 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xiao Shuhua"
 description              : #&description "Researcher"
-# url                      : https://shhxiao.com
-url                      : https://SHXiao-Stella.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shhxiao.com
+# url                      : https://SHXiao-Stella.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SHXiao-Stella/SHXiao-Stella.github.io"   #"SHXiao-Stella/SHXiao-Stella.github.io.github.io"
 
@@ -179,7 +179,7 @@ exclude:
   - Capfile
   - config
   - Dockerfile
-  - Gemfile
+  # - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
@@ -318,10 +318,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-#   - jekyll-remote-theme
+  - jekyll-remote-theme
 
-# remote_theme: academicpages/academicpages.github.io
-
+remote_theme: academicpages/academicpages.github.io
 
 # mimic GitHub Pages with --safe
 whitelist:

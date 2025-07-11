@@ -39,9 +39,8 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
   gem 'hawkins' 
+  # shuhua
 end
-
-gem "wdm", "~> 0.1.0" if Gem.win_platform? #shuhua jinyong
 # Windows 上需要提供时区数据
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
