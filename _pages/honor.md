@@ -14,7 +14,8 @@ author_profile: true
 <br>
 
 # *Award*
-+ 2025, [Best Poster Award](https://cityuhkfintech.com/2025-conference/), 4th Hong Kong Conference for Fintech, AI, and Big Data in Business
++ 2025, Best Poster Award, 4th Hong Kong Conference for Fintech, AI, and Big Data in Business
+    + Media: [Conference](https://cityuhkfintech.com/2025-conference/)
 + 2021, Best Paper Award (First Prize), 18th Chinese Finance Annual Meeting
-    + Media: [SYSU1](https://bus.sysu.edu.cn/article/8845), [SYSU2](https://bus.sysu.edu.cn/article/9038)
+    + Media: [SYSU1](https://bus.sysu.edu.cn/article/8845), [SYSU2](https://bus.sysu.edu.cn/article/9038), [XMU](https://sm.xmu.edu.cn/info/1585/14804.htm)
 + 2021, Best Paper award, 19th Conference on Financial Systems Engineering and Risk Management

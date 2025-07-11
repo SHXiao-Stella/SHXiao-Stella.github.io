@@ -11,7 +11,7 @@ author_profile: true
 — Oscar Wilde -->
 
 <div class="quote-container">
-  <blockquote style="font-size: 1.2em; font-family: 'Lobster', color: #6b7280;">
+  <blockquote style="font-size: 1.2em; font-family: 'Lobster', color:rgb(117, 146, 212);">
     The only thing to do with good advice is to pass it on. It is never of any use to oneself.
     <footer style="text-align: right; font-family: 'Dancing Script', cursive; font-size: 1.2em;">
       — Oscar Wilde
