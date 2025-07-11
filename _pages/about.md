@@ -17,7 +17,7 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 
 ## Education
 
-+ 2023-present, Phd, Department of Decision Analytics and Operations, City University of Hong Kong. Mentor: [Jingyu He](https://jingyuhe.com/), [Guaohao Feng](https://gavinfeng702.com/)
++ 2023-present, Phd, Department of Decision Analytics and Operations, City University of Hong Kong. Mentor: [Jingyu He](https://jingyuhe.com/), [Guanhao Feng](https://gavinfeng702.com/)
 + 2020-2023, Master of Finance, School of Business, Sun Yat-sen University. Mentor: [Shushang Zhu](https://bus.sysu.edu.cn/en/teacher/ZhuShushang)
   + Excellent Graduate
 + 2016-2020, Bachelor of Financial Management, School of Business, Sun Yat-sen University.
