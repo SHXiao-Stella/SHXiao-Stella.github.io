@@ -11,7 +11,8 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xiao Shuhua"
 description              : #&description "Researcher"
-url                      : https://SHXiao-Stella.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shhxiao.com
+# url                      : https://SHXiao-Stella.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SHXiao-Stella/SHXiao-Stella.github.io"   #"SHXiao-Stella/SHXiao-Stella.github.io.github.io"
 
