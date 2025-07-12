@@ -34,8 +34,7 @@ redirect_from:
 
 <!-- <br> -->
 
-*Education*
-======
+## 📖 *Education*
 * 2023-present, Phd, Department of Decision Analytics and Operations, City University of Hong Kong. Mentor: [Jingyu He](https://jingyuhe.com/), [Guaohao Feng](https://gavinfeng702.com/)
 * 2020-2023, Master of Finance, School of Business, Sun Yat-sen University. Mentor: [Shushang Zhu](https://bus.sysu.edu.cn/en/teacher/ZhuShushang)
 * 2016-2020, Bachelor of Financial Management, School of Business, Sun Yat-sen University.

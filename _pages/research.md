@@ -23,9 +23,9 @@ redirect_from:
 </div>
 
 
-# *Publication*
+## 📝 Publications
 
-## (Before phd)
+### (Before phd)
 * **Shuhua Xiao**, Shushang Zhu, Ying Wu. 2023. [Asset Securitization, Cross Holdings, and Systemic Risk in Banking](https://doi.org/10.1016/j.jfs.2023.101140). *Journal of Financial Stability* (ABS 3*) 
 <!-- [Slide] -->
 
@@ -36,11 +36,11 @@ redirect_from:
 
 <br>
 
-# *Working paper*
+## 💻 Working paper
 
 * Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. Schrödinger's Sparsity in the Cross-Section of Stock Returns. 
 
-## (Before phd)
+### (Before phd)
 * **Shuhua Xiao**, Jiali Ma, Li Xia, Shushang Zhu. 2022. [Systemic Risk Bailout: A PGO Approach Based on Neural Network](http://arxiv.org/abs/2212.05235)
 
 
