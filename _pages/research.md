@@ -38,7 +38,7 @@ redirect_from:
 
 ## 💻 Working paper
 
-* Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. Schrödinger's Sparsity in the Cross-Section of Stock Returns. 
+* Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. [Schrödinger's Sparsity in the Cross-Section of Stock Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960) 
 
 ### (Before phd)
 * **Shuhua Xiao**, Jiali Ma, Li Xia, Shushang Zhu. 2022. [Systemic Risk Bailout: A PGO Approach Based on Neural Network](http://arxiv.org/abs/2212.05235)
