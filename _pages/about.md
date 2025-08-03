@@ -20,13 +20,13 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 + 2023-present, Phd, Department of Decision Analytics and Operations, City University of Hong Kong. Mentor: [Jingyu He](https://jingyuhe.com/), [Guanhao Feng](https://gavinfeng702.com/)
 + 2020-2023, Master of Finance, School of Business, Sun Yat-sen University. Mentor: [Shushang Zhu](https://bus.sysu.edu.cn/en/teacher/ZhuShushang)
   + Excellent Graduate
-+ 2016-2020, Bachelor of Financial Management, School of Business, Sun Yat-sen University.
++ 2016-2020, Bachelor of Accounting (Minor: Financial Management), School of Business, Sun Yat-sen University.
   + Excellent Thesis
 
 ## 💻 Working papers
 
-+ Schrödinger's Sparsity in the Cross-Section of Stock Returns (with: [Doron Avramov](https://faculty.runi.ac.il/davramov/), [Guaohao Feng](https://gavinfeng702.com/), [Jingyu He](https://jingyuhe.com/)) [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960)][[Slide](files/sparse/BayesIPCA_2505.pdf)]
-  + 2025CICF*
++ Schrödinger's Sparsity in the Cross-Section of Stock Returns (with: [Doron Avramov](https://faculty.runi.ac.il/davramov/), [Guaohao Feng](https://gavinfeng702.com/), [Jingyu He](https://jingyuhe.com/)) [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960)][[Slide](files/sparse/BayesIPCA_2507.pdf)]
+  + 2025CICF, 2025 SoFiE Financial Machine Learning Summer School at Yale
 + Factors or Fake? A New Look at Anomalies and the Replication Crisis (with: [Siddhartha Chib](https://apps.olin.wustl.edu/faculty/chib/), [Lingxiao Zhao](http://zhaolingxiao.com/)) [Poster]
   + Best poster award
 
