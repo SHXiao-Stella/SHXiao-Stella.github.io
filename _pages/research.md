@@ -26,7 +26,7 @@ redirect_from:
 ## 📝 Publications
 
 ### (Before phd)
-* **Shuhua Xiao**, Shushang Zhu, Ying Wu. 2023. [Asset Securitization, Cross Holdings, and Systemic Risk in Banking](https://doi.org/10.1016/j.jfs.2023.101140). *Journal of Financial Stability* (ABS 3*) 
+* **Shuhua Xiao**, Shushang Zhu, Ying Wu. 2023. [Asset Securitization, Cross Holdings, and Systemic Risk in Banking](https://doi.org/10.1016/j.jfs.2023.101140). *Journal of Financial Stability*
 <!-- [Slide] -->
 
 * (In Chinese) **Shuhua Xiao**, Jiali Ma. Credit asset securitization, interconnectedness level of banking system and systemic risk. Journal of Systems Engineering. (信贷资产证券化、银行关联水平与系统性风险. 系统工程学报). 2024, Forthcoming.
@@ -38,10 +38,10 @@ redirect_from:
 
 ## 💻 Working paper
 
-* Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. [Schrödinger's Sparsity in the Cross-Section of Stock Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960) 
+* Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. Schrödinger's Sparsity in the Cross-Section of Stock Returns. [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960)][[Slide](files/sparse/BayesIPCA_2507.pdf)][[Poster](files/sparse/Sparsity_poster_hkust.pdf)]
 
 ### (Before phd)
-* **Shuhua Xiao**, Jiali Ma, Li Xia, Shushang Zhu. 2022. [Systemic Risk Bailout: A PGO Approach Based on Neural Network](http://arxiv.org/abs/2212.05235)
+* **Shuhua Xiao**, Jiali Ma, Li Xia, Shushang Zhu. 2022. [Systemic Risk Bailout: A PGO Approach Based on Neural Network](http://arxiv.org/abs/2212.05235). Journal of the Operations Research Society of China, minor revision. [[Slide](files/OptimalBailout.pdf)]
 
 
 <!-- * 🎓 **Deakin University**
