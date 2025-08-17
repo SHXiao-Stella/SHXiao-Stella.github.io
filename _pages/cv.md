@@ -39,6 +39,10 @@ redirect_from:
 * 2020-2023, Master of Finance, School of Business, Sun Yat-sen University. Mentor: [Shushang Zhu](https://bus.sysu.edu.cn/en/teacher/ZhuShushang)
 * 2016-2020, Bachelor of Financial Management, School of Business, Sun Yat-sen University.
 
+<!-- ## 🥰 *Hobbies* -->
+## 🤓 *Hobbies*
+*  🏊🏻 🍽️ 📚 🤔 🎻 📸 🖌️
+
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant

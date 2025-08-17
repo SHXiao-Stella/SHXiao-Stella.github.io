@@ -42,6 +42,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : #"https://www.researchgate.net/profile/Shuhua-Xiao-3"
   scopus           : # URL
+  SSRN             : "AbsByAuth.cfm?per_id=3533500" 
 
   # Repositories and software development
   bitbucket        :
