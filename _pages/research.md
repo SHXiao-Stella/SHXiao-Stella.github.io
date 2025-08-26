@@ -40,7 +40,7 @@ redirect_from:
 * Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. [Schrödinger's Sparsity in the Cross-Section of Stock Returns.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960) [[Slide](../files/sparse/BayesIPCA_2507.pdf)][[Poster](../files/sparse/Sparsity_poster_hkust.pdf)]
 
 ### (Research conducted prior to my PhD)
-* **Shuhua Xiao**, Jiali Ma, Li Xia, Shushang Zhu. 2022. [Systemic Risk Bailout: A PGO Approach Based on Neural Network](http://arxiv.org/abs/2212.05235). Journal of the Operations Research Society of China, Minor revision. [[Slide](../files/others/OptimalBailout.pdf)]
+* **Shuhua Xiao**, Jiali Ma, Li Xia, Shushang Zhu. 2022. [Optimal Systemic Risk Bailout: A PGO Approach Based on Neural Network.](http://arxiv.org/abs/2212.05235). Journal of the Operations Research Society of China, Minor revision. [[Slide](../files/others/OptimalBailout.pdf)]
 
 
 <!-- * 🎓 **Deakin University**
