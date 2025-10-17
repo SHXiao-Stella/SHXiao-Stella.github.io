@@ -41,7 +41,7 @@ redirect_from:
 
 * Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. [Schrödinger's Sparsity in the Cross-Section of Stock Returns.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960) [[Slide](../files/sparse/BayesIPCA_2507.pdf)][[Poster](../files/sparse/Sparsity_poster_hkust.pdf)]
 
-* Siddhartha Chib, **Shuhua Xiao**, Lingxiao Zhao. 2025. Factors or Fake? A New Look at Anomalies and the Replication Crisis
+<!-- * Siddhartha Chib, **Shuhua Xiao**, Lingxiao Zhao. 2025. Factors or Fake? A New Look at Anomalies and the Replication Crisis -->
 
 <!-- * 🎓 **Deakin University**
     * Phd
