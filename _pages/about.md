@@ -24,7 +24,7 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 
 ## 💻 Working papers
 
-+ Schrödinger's Sparsity in the Cross-Section of Stock Returns (with: [Doron Avramov](https://faculty.runi.ac.il/davramov/), [Guaohao Feng](https://gavinfeng702.com/), [Jingyu He](https://jingyuhe.com/)) [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960)][[Slide](files/sparse/BayesIPCA_2507.pdf)][[Poster](files/sparse/Sparsity_poster_hkust.pdf)]
++ Schrödinger's Sparsity in the Cross Section of Stock Returns (with: [Doron Avramov](https://faculty.runi.ac.il/davramov/), [Guaohao Feng](https://gavinfeng702.com/), [Jingyu He](https://jingyuhe.com/)) [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960)][[Slide](files/sparse/BayesIPCA_2507.pdf)][[Poster](files/sparse/Sparsity_poster_hkust.pdf)]
   + 2025 CICF, 2025 SoFiE Financial Machine Learning Summer School at Yale
 
 <!-- 
