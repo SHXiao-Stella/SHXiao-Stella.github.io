@@ -56,9 +56,6 @@
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      
-      {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
-      {% endif %}
       {% if author.semantic %}
         <li><a href="{{ author.semantic }}"><i class="ai ai-semantic-scholar ai-fw icon-pad-right"></i>Semantic Scholar</a></li>
       {% endif %}
@@ -178,6 +175,13 @@
       <!-- <li><a href="https://papers.ssrn.com/sol3/cf_dev/{{ author.SSRN }}"><i class="fas fa-fw fa-lightbulb icon-pad-right" aria-hidden="true"></i>SSRN</a></li> -->
       <li><a href="https://papers.ssrn.com/sol3/cf_dev/{{ author.SSRN }}"><i class="fas fa-fw fa-file-alt icon-pad-right" aria-hidden="true"></i>SSRN</a></li>
       {% endif %}      
+      <!-- {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw icon-pad-right"></i>Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right" aria-hidden="true"></i>Google Scholar</a></li>
+      {% endif %} -->
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="fa-brands fa-google-scholar icon-pad-right1"  aria-hidden="true"></i>Google Scholar</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
