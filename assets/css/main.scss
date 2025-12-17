@@ -71,3 +71,120 @@
   font-size: 1.25em;
 }
 // 繁体：Klee One ，Yuji Syuku
+
+
+/* =========================
+   Link chips (PDF/Slide/Poster)
+   ========================= */
+a.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.18em 0.65em;
+  margin-left: 0.35em;
+  border-radius: 999px;
+
+  font-size: 0.82em;
+  font-weight: 650;
+  line-height: 1.7;
+
+  border: 1px solid var(--global-border-color);
+  background: rgba(0, 0, 0, 0.03);
+  // color: var(--global-text-color);
+  color: var(--global-link-color);
+
+  text-decoration: none !important;
+  white-space: nowrap;
+
+  transition: transform 0.12s ease, background-color 0.12s ease, border-color 0.12s ease;
+}
+
+a.chip:hover {
+  transform: translateY(-1px);
+  background: rgba(0, 0, 0, 0.06);
+  border-color: rgba(0, 0, 0, 0.25);
+}
+
+/* 可选：类型微区分（很克制，不会花） */
+a.chip--pdf    { }
+a.chip--slide  { }
+a.chip--poster { }
+
+// /* 可选：给外链一个小符号（如果你不喜欢，删掉这一段） */
+// a.chip[target="_blank"]::after {
+//   content: "↗";
+//   margin-left: 0.35em;
+//   opacity: 0.55;
+//   font-size: 0.9em;
+// }
+
+
+/* =========================
+   Masthead micro-personality: icons + underline
+   (Home stays plain)
+   ========================= */
+
+/* 1) Home：不显示底部 underline bar */
+.greedy-nav .visible-links > li:first-child > a::before {
+  display: none;
+}
+
+/* 2) 其他项：把默认 underline 变细 + 换成链接色 */
+.greedy-nav .visible-links > li:not(:first-child) > a::before {
+  height: 2px;
+  background: var(--global-link-color);
+  opacity: 0.75;
+}
+
+/* 3) 给 Research/CV/Note 加“前置小图标”
+   注意：主题已经用 ::before 做 underline 了，所以我们用 ::after 放图标 */
+.greedy-nav .visible-links > li:not(:first-child) > a {
+  position: relative;
+  padding-left: 1.15em;  /* 给图标留位置 */
+}
+
+.greedy-nav .visible-links > li:not(:first-child) > a::after {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-52%);
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-size: 0.85em;
+  opacity: 0.85;
+}
+
+/* 图标按链接地址匹配 */
+.greedy-nav .visible-links a[href^="/research/"]::after { content: "\f02d"; } /* book */
+.greedy-nav .visible-links a[href^="/cv/"]::after       { content: "\f15c"; } /* file-alt */
+.greedy-nav .visible-links a[href^="/note/"]::after     { content: "\f249"; } /* sticky-note */
+
+/* Honor 不加图标（可删） */
+.greedy-nav .visible-links a[href^="/honor/"] {
+  padding-left: 0;
+}
+.greedy-nav .visible-links a[href^="/honor/"]::after {
+  content: none;
+}
+
+/* ===== Fix: only indent items with icons, and align underline to text ===== */
+
+/* 1) 先撤销“所有非 Home 都缩进”的规则（覆盖你之前那条） */
+.greedy-nav .visible-links > li:not(:first-child) > a {
+  padding-left: 0;
+}
+
+/* 2) 仅对需要图标的项缩进，并定义一个统一缩进变量 */
+.greedy-nav .visible-links a[href^="/research/"],
+.greedy-nav .visible-links a[href^="/cv/"],
+.greedy-nav .visible-links a[href^="/note/"] {
+  --icon-indent: 1.15em;
+  padding-left: var(--icon-indent);
+}
+
+/* 3) 让这些项的下划线从“文字起点”开始画，而不是从最左边（含图标区）开始 */
+.greedy-nav .visible-links a[href^="/research/"]::before,
+.greedy-nav .visible-links a[href^="/cv/"]::before,
+.greedy-nav .visible-links a[href^="/note/"]::before {
+  left: var(--icon-indent);
+  width: calc(100% - var(--icon-indent));
+}

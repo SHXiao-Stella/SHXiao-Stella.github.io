@@ -24,8 +24,11 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 
 ## 💻 Working papers
 
-+ Schrödinger's Sparsity in the Cross Section of Stock Returns (with: [Doron Avramov](https://faculty.runi.ac.il/davramov/), [Guaohao Feng](https://gavinfeng702.com/), [Jingyu He](https://jingyuhe.com/)) [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960)][[Slide](files/sparse/BayesIPCA_2507.pdf)][[Poster](files/sparse/Sparsity_poster_hkust.pdf)]
-  + 2025 CICF, 2025 SoFiE Financial Machine Learning Summer School at Yale
++ Schrödinger's Sparsity in the Cross Section of Stock Returns (with: [Doron Avramov](https://faculty.runi.ac.il/davramov/), [Guaohao Feng](https://gavinfeng702.com/), [Jingyu He](https://jingyuhe.com/))  
+[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960){: .chip .chip--pdf target="_blank" rel="noopener"}
+[Slide](files/sparse/BayesIPCA_2507.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
+[Poster](files/sparse/Sparsity_poster_hkust.pdf){: .chip .chip--poster target="_blank" rel="noopener"}
+  + 2025 CICF, 2025 SoFiE Financial Machine Learning Summer School at Yale, 2025 FIRN Melbourne Asset Pricing Meeting
 
 <!-- 
 + Factors or Fake? A New Look at Anomalies and the Replication Crisis (with: [Siddhartha Chib](https://apps.olin.wustl.edu/faculty/chib/), [Lingxiao Zhao](http://zhaolingxiao.com/)) [Poster]-->
@@ -56,4 +59,4 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 
 ## 💬 Contact Information
 
-You can reach me at <shxiao3-c@my.cityu.edu.hk>.
++ You can reach me at <shxiao3-c@my.cityu.edu.hk>.

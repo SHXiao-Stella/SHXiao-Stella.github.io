@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Xiao Shuhua"
 description              : #&description "Researcher"
@@ -22,7 +22,7 @@ repository               : "SHXiao-Stella/SHXiao-Stella.github.io"   #"SHXiao-St
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # name             : "Shuhua Xiao"
-  name_en          : "Shuhua Xiao"
+  name_en          : "Shuhua XIAO"
   name_zh          : "肖书华"
   avatar           : "profile_yuyuan.png" #"profile.png"
   # bio              : "Give civilization to time."

@@ -1,18 +1,20 @@
 # main links links
 main:
-- title: "Research"
+- title: "RESEARCH"
   url: /research/
 
 # - title: "Curriculum Vitae"
 - title: "CV"
   url: /cv/
 
-- title: "Note"
+- title: "NOTE"
   url: /note/
 
-- title: "Honor"
+- title: "HONOR"
   url: /honor/
 
+- title: "DATA"
+  url: /data/
 # - title: "Misc"
 #   url: /misc/
 
