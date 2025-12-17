@@ -34,7 +34,16 @@ rel="stylesheet">
 
 <!-- For all browsers -->
 <!-- <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css"> -->
- <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+ <!-- <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}"> -->
+
+{% if site.github.build_revision %}
+  {% assign cssver = site.github.build_revision %}
+{% else %}
+  {% assign cssver = site.time | date: "%s" %}
+{% endif %}
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ cssver }}">
+
+
 <!-- <script src="{{ base_path }}/assets/js/_main.js"></script> -->
 
 
