@@ -6,6 +6,20 @@ permalink: /honor/
 author_profile: true
 ---
 
+{% include base_path %}
+
+<span style="font-family: 'euclid';">
+
+
+<div style="text-align: center;">
+  <div style="position: relative; display: inline-block;">
+    <img src="/images/2506_poster.jpg" alt="Profile Image" width="300" height="300" style="display: block;" />
+  </div>
+  <div style="text-align: right; font-style: italic; color: #d3d3d3; font-size: 14px; margin-top: 5px;">
+    2025-June-01
+  </div>
+</div>
+
 ## 🎖 *Honor*
 + *2023*, Excellent Graduate, Sun Yat-sen University
 + *2020*, Excellent Thesis, Sun Yat-sen University
