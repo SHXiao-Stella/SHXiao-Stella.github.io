@@ -23,32 +23,36 @@ redirect_from:
 </div>
 
 
+
 ## 📝 Publications
 
 ### (Research conducted prior to my PhD)
-* **Shuhua Xiao**, Shushang Zhu, Ying Wu. 2023. [Asset Securitization, Cross Holdings, and Systemic Risk in Banking](https://doi.org/10.1016/j.jfs.2023.101140). *Journal of Financial Stability*.
+* **Shuhua Xiao**, Shushang Zhu, Ying Wu. 2023. Asset Securitization, Cross Holdings, and Systemic Risk in Banking. *Journal of Financial Stability*.  
+[Paper](https://doi.org/10.1016/j.jfs.2023.101140){: .chip .chip--pdf target="_blank" rel="noopener"}
 [Slide](../files/others/SystemicRisk.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
-<!-- [[Slide](../files/others/SystemicRisk.pdf)] -->
 
-* **Shuhua Xiao**, Jiali Ma, Li Xia, Shushang Zhu. [Optimal Systemic Risk Bailout: A PGO Approach Based on Neural Network.](http://arxiv.org/abs/2212.05235). Journal of the Operations Research Society of China. 2025, Forthcoming.
+
+* **Shuhua Xiao**, Jiali Ma, Li Xia, Shushang Zhu. Optimal Systemic Risk Bailout: A PGO Approach Based on Neural Network. *Journal of the Operations Research Society of China*. 2025, Forthcoming.  
+[Paper](http://arxiv.org/abs/2212.05235){: .chip .chip--pdf target="_blank" rel="noopener"}
 [Slide](../files/others/OptimalBailout.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
-<!-- [[Slide](../files/others/OptimalBailout.pdf)] -->
 
 
-* (In Chinese) **Shuhua Xiao**, Jiali Ma. Credit asset securitization, interconnectedness level of banking system and systemic risk. Journal of Systems Engineering. (信贷资产证券化、银行关联水平与系统性风险. 系统工程学报). 2024, Forthcoming.
+* (In Chinese) Shuxian Li, Xiaochuan Pang, Jiali Ma, **Shuhua Xiao**, Shushang Zhu. Local Government Implicit Debt and Banking Systemic Risk: A Perspective on Local Financing Platforms. *Systems Engineering-Theory & Practice*. (地方政府隐性债务与银行体系系统性风险——基于地方融资平台视角的研究. 系统工程理论与实践.) 2024.  
+[Paper](https://kns.cnki.net/kcms/detail/11.2267.n.20240805.1740.008.html){: .chip .chip--pdf target="_blank" rel="noopener"}
+
+
+* (In Chinese) **Shuhua Xiao**, Jiali Ma. Credit asset securitization, interconnectedness level of banking system and systemic risk. *Journal of Systems Engineering*. (信贷资产证券化、银行关联水平与系统性风险. 系统工程学报). 2024, Forthcoming.  
 [Slide](../files/others/CAS_CN.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
-<!-- [[Slide](../files/others/CAS_CN.pdf)] -->
 
-
-* (In Chinese) Shuxian Li, Xiaochuan Pang, Jiali Ma, **Shuhua Xiao**, Shushang Zhu. [Local Government Implicit Debt and Banking Systemic Risk: A Perspective on Local Financing Platforms](https://kns.cnki.net/kcms/detail/11.2267.n.20240805.1740.008.html). Systems Engineering-Theory & Practice. (地方政府隐性债务与银行体系系统性风险——基于地方融资平台视角的研究. 系统工程理论与实践.) 2024.
 
 
 <br>
 
+
 ## 💻 Working paper
 
-* Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. [Schrödinger's Sparsity in the Cross Section of Stock Returns.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960)
-<!-- [[Slide](../files/sparse/BayesIPCA_2507.pdf)][[Poster](../files/sparse/Sparsity_poster_hkust.pdf)] -->
+* Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. Schrödinger's Sparsity in the Cross Section of Stock Returns.  
+[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960){: .chip .chip--pdf target="_blank" rel="noopener"}
 [Slide](files/sparse/BayesIPCA_2507.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 [Poster](files/sparse/Sparsity_poster_hkust.pdf){: .chip .chip--poster target="_blank" rel="noopener"}
 

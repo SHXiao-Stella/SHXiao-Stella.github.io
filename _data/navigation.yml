@@ -13,8 +13,9 @@ main:
 - title: "HONOR"
   url: /honor/
 
-- title: "DATA"
-  url: /data/
+- title: "CODE"
+  url: /code/
+  
 # - title: "Misc"
 #   url: /misc/
 

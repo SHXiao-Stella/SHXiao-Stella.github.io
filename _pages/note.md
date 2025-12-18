@@ -24,18 +24,16 @@ author_profile: true
 
 I’d like to share some personal notes, possibly in a mix of Chinese and English or purely in Chinese/English.
 
-* 2023, A brief note about Peter Hoff's [*A First Course in Bayesian Statistical Methods*](https://pdhoff.github.io/book/).
+* 2023, A brief note (English) about Peter Hoff's [*A First Course in Bayesian Statistical Methods*](https://pdhoff.github.io/book/).
+    [PDF](http://SHXiao-Stella.github.io/files/notes/Peter_Hoff_Note.pdf){: .chip .chip--pdf target="_blank" rel="noopener"}
 
-    [English, Download](http://SHXiao-Stella.github.io/files/notes/Peter_Hoff_Note.pdf)
-
-* 2022, A rough note for the Investment course in SYSU.
-
-    [CN&EN, Download](http://SHXiao-Stella.github.io/files/notes/Investment_Note_(Chinese-English_mixed).pdf)
+* 2022, A rough note (Chinese & English mixed) for the Investment course in SYSU.
+    [PDF](http://SHXiao-Stella.github.io/files/notes/Investment_Note_(Chinese-English_mixed).pdf){: .chip .chip--pdf target="_blank" rel="noopener"}
 
 * 2021, A rough note for Macro economic course in SYSU.
-
-    (...coming soon)
+    [PDF](http://SHXiao-Stella.github.io/files/notes/Current_macro_Note.pdf){: .chip .chip--pdf target="_blank" rel="noopener"}
+    [Video](https://www.bilibili.com/list/388356166/?sid=5052441&spm_id_from=333.1387.0.0&oid=543908920&bvid=BV1Qv4y1f7sA){: .chip .chip--pdf target="_blank" rel="noopener"}
+    
 
 * 2020, A rough note for the optimization in finance.
-
     (...coming soon)
