@@ -53,7 +53,7 @@ redirect_from:
 
 * Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. Schrödinger's Sparsity in the Cross Section of Stock Returns.  
 [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960){: .chip .chip--pdf target="_blank" rel="noopener"}
-[Slide](files/sparse/BayesIPCA_2507.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
+[Slide](files/sparse/BayesIPCA_2512.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 [Poster](files/sparse/Sparsity_poster_hkust.pdf){: .chip .chip--poster target="_blank" rel="noopener"}
 
 
