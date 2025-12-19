@@ -49,6 +49,13 @@
   font-weight: 700;
   font-size: 1.25em;
 }
+// .author__name-en {
+//   font-family: "Source Serif 4", serif;
+//   font-style: italic;
+//   font-weight: 700;
+//   font-size: 1.25em;
+// }
+
 
 // .author__name-en {
 //     /* 英文名用默认字体或你原来的字体 */
@@ -73,6 +80,7 @@
 // 繁体：Klee One ，Yuji Syuku
 
 
+// 小图标
 /* =========================
    Link chips (PDF/Slide/Poster)
    ========================= */
@@ -118,6 +126,8 @@ a.chip--poster { }
 // }
 
 
+
+// 导航栏下划线
 /* =========================
    Masthead micro-personality: icons + underline
    (Home stays plain)
@@ -187,4 +197,19 @@ a.chip--poster { }
 .greedy-nav .visible-links a[href^="/note/"]::before {
   left: var(--icon-indent);
   width: calc(100% - var(--icon-indent));
+}
+
+
+// 挪动左右两边的距离
+@media (min-width: 925px) {
+  // // 右边往右
+  // .archive {
+  //   padding-left: 5rem !important;
+  //   border-left: 1px solid var(--global-border-color);
+  // }
+
+  // 左边往左
+  .sidebar.sticky{
+    margin-left: -2rem !important;   /* 调大：-3rem；调小：-1rem */
+  }
 }

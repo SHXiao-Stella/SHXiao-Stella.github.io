@@ -69,24 +69,13 @@
 /* 让除了 Home 之外的导航项与右侧正文对齐 */
 @include breakpoint($large) {
   .masthead .greedy-nav .visible-links > li:first-child + li {
-    /* 下面这个数= sidebar宽度 + sidebar和正文之间的gap
-       你需要按你页面实际宽度改一下，比如 240px/260px/280px 等 */
-    padding-left: 75px;
+    /* home 和 research之间的距离 */
+    padding-left: 108px;
   }
 
   .greedy-nav .visible-links {
-    
-    /* 核心：只给左边加边距 */
-    /* 这里的 260px 就是 Home 和 Research 之间的那段空白距离 */
-    /* 增加这个数字 -> Research 往右跑 */
-    /* 减小这个数字 -> Research 往左跑 (靠近 Home) */
-    margin-left: 65px !important; 
+    /*home 开始的距离*/
+    margin-left: 30px !important; 
     
   }
 }
-
-// @include breakpoint($large) {
-  
-//   /* 也就是 Research, CV 等菜单的容器 */
-  
-// }
