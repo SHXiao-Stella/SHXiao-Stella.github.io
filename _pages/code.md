@@ -13,4 +13,7 @@ author_profile: true
     [Code](https://github.com/SHXiao-Stella/SharedAnalyst){: .chip .chip--pdf target="_blank" rel="noopener"}
     <!-- [Shared Analyst](https://github.com/SHXiao-Stella/SharedAnalyst) -->
 
+
+## 🛠️ R Package
+* (coming soon)
 <br>

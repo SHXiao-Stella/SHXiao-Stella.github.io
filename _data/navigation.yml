@@ -7,14 +7,14 @@ main:
 - title: "CV"
   url: /cv/
 
-- title: "NOTE"
-  url: /note/
-
 - title: "HONOR"
   url: /honor/
 
 - title: "CODE"
   url: /code/
+  
+- title: "NOTE"
+  url: /note/
   
 # - title: "Misc"
 #   url: /misc/

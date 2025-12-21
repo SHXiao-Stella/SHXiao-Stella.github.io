@@ -16,18 +16,20 @@ author_profile: true
     <img src="/images/2506_poster.jpg" alt="Profile Image" width="300" height="300" style="display: block;" />
   </div>
   <div style="text-align: right; font-style: italic; color: #d3d3d3; font-size: 14px; margin-top: 5px;">
-    2025-June-01
+    June 01, 2025
   </div>
 </div>
 
 
-## 🎖 *Honor*
+<!-- ## 🎖 Honor -->
+## 👑 Honor
 + *2023*, Excellent Graduate, Sun Yat-sen University
 + *2020*, Excellent Thesis, Sun Yat-sen University
 
 <!-- <br> -->
 
-## 🎖 *Award*
+<!-- ## 🎖 Award -->
+## 🏆 Award
 + *2025*, Best Poster Award, 4th Hong Kong Conference for Fintech, AI, and Big Data in Business  
     <!-- + Media: [Conference](https://cityuhkfintech.com/2025-conference/) -->
     [Medium1](https://cityuhkfintech.com/2025-conference/){: .chip .chip--pdf target="_blank" rel="noopener"}
@@ -41,12 +43,14 @@ author_profile: true
 + *2021*, Best Paper award, 19th Conference on Financial Systems Engineering and Risk Management
 
 
-## 🎖 *Grant*
+<!-- ## 🎖 Grant -->
+## 🤝 Grant
 + *2025*, Conference Grant, CityU Institutional Funds
 + *2019*, PI. The Motivation of Inter-bank Cross-holding Asset Securitization Products and Its Impacton Systemic Risk. *National College Students’ Innovation Training Program*
 
 
-## 🎖 *Scholarship*
+<!-- ## 🎖 Scholarship -->
+## 🪙 Scholarship
 + *2023-,* &ensp; &ensp; &ensp; PhD Studentship, City University of Hong Kong
 + *2020-2023*, Postgraduate Scholarship, Sun Yat-sen University (3 First Prize)
 + *2016-2020*, Undergraduate Scholarship, Sun Yat-sen University (3 First Prize, 1 Second Prize) 

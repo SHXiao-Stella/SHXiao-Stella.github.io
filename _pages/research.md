@@ -46,15 +46,15 @@ redirect_from:
 
 
 
-<br>
+<!-- <br> -->
 
 
-## 💻 Working paper
+## 💻 Working Papers
 
 * Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. Schrödinger's Sparsity in the Cross Section of Stock Returns.  
 [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960){: .chip .chip--pdf target="_blank" rel="noopener"}
-[Slide](files/sparse/BayesIPCA_2512.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
-[Poster](files/sparse/Sparsity_poster_hkust.pdf){: .chip .chip--poster target="_blank" rel="noopener"}
+[Slide](../files/sparse/BayesIPCA_2512.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
+[Poster](../files/sparse/Sparsity_poster_hkust.pdf){: .chip .chip--poster target="_blank" rel="noopener"}
 
 
 <!-- * Siddhartha Chib, **Shuhua Xiao**, Lingxiao Zhao. 2025. Factors or Fake? A New Look at Anomalies and the Replication Crisis -->

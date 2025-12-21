@@ -10,9 +10,9 @@ redirect_from:
 ---
 I am currently pursuing a PhD in the Department of Decision Analytics and Operations at City University of Hong Kong.
 
-<!-- ## Research Interests
+## 🐳 Research Interests
 
-+ Bayesian Statistics, Asset Pricing, Financial Engineering -->
++ Asset Pricing, Bayesian Statistics, Financial Engineering
 
 ## 📖 Education
 
@@ -22,12 +22,12 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 + 2016-2020, Bachelor of Accounting (Minor: Financial Management), School of Business, Sun Yat-sen University.
   + Excellent Thesis
 
-## 💻 Working papers
+## 💻 Working Papers
 
 + Schrödinger's Sparsity in the Cross Section of Stock Returns (with: [Doron Avramov](https://faculty.runi.ac.il/davramov/), [Guaohao Feng](https://gavinfeng702.com/), [Jingyu He](https://jingyuhe.com/))  
 [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960){: .chip .chip--pdf target="_blank" rel="noopener"}
-[Slide](files/sparse/BayesIPCA_2512.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
-[Poster](files/sparse/Sparsity_poster_hkust.pdf){: .chip .chip--poster target="_blank" rel="noopener"}
+[Slide](../files/sparse/BayesIPCA_2512.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
+[Poster](../files/sparse/Sparsity_poster_hkust.pdf){: .chip .chip--poster target="_blank" rel="noopener"}
   + 2025 CICF, 2025 SoFiE Financial Machine Learning Summer School at Yale, 2025 FIRN Melbourne Asset Pricing Meeting
 
 <!-- 
@@ -52,11 +52,11 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 
 <!-- + My personal WeChat Official account is named "言书界." You can access it by clicking this [link](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1NDU0MzI2Nw==&scene=117#wechat_redirect), copying and opening the website using WeChat. -->
 
-## 🧰 Skills
+## 👓 Skills
 
 + R, C++, Python, MATLAB, Stata, Eviews
 + Chinese(Native), English, Cantonese
 
-## 💬 Contact Information
+## 📥 Contact Information
 
 + You can reach me at <shxiao3-c@my.cityu.edu.hk>.

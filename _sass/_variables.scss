@@ -13,9 +13,18 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+// $serif                      : Georgia, Times, serif;
+// $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+// $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+
+/* shuhua Modern academic */
+$serif      : "Source Serif 4", Georgia, Times, serif;
+// $serif      : "Noto Serif", Georgia, Times, serif;
+// "Crimson Pro", 
+// $serif      : "Noto Serif SC", Georgia, Times, serif;
+$sans-serif : "Source Serif 4", "Inter", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace  : "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+              "Liberation Mono", "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -28,9 +37,15 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+// $global-font-family         : $sans-serif;
+// $header-font-family         : $sans-serif;
+// $caption-font-family        : $serif;
+
+/* shuhua Modern academic */
+$global-font-family  : $sans-serif;
+$header-font-family  : $serif;
+$caption-font-family : $serif;
+
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
