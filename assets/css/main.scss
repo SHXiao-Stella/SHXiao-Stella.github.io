@@ -88,18 +88,34 @@
 a.chip {
   display: inline-flex;
   align-items: center;
-  padding: 0.18em 0.65em;
-  margin-left: 0.35em;
   border-radius: 999px;
 
-  font-size: 0.82em;
+  // big 图标
+  // padding: 0.18em 0.65em;
+  // margin-left: 0.35em;
+  // font-size: 0.82em;
+  // font-weight: 650;
+  // line-height: 1.7;
+
+  // medium 图标
+  padding: 0.12em 0.55em;
+  margin-left: 0.30em;
+  font-size: 0.78em;
   font-weight: 650;
-  line-height: 1.7;
+  line-height: 1.55;
+
+  // small 图标
+  // padding: 0.08em 0.48em;
+  // margin-left: 0.28em;
+  // font-weight: 650;
+  // font-size: 0.74em;
+  // line-height: 1.45;
 
   border: 1px solid var(--global-border-color);
   background: rgba(0, 0, 0, 0.03);
   // color: var(--global-text-color);
-  color: var(--global-link-color);
+  // color: var(--global-link-color);
+  color: var(--chip-color, var(--global-link-color));
 
   text-decoration: none !important;
   white-space: nowrap;
@@ -117,6 +133,34 @@ a.chip:hover {
 a.chip--pdf    { }
 a.chip--slide  { }
 a.chip--poster { }
+a.chip-link    { }
+
+
+/* 让 svg 也继承文字色（font icon 一般不需要） */
+a.chip svg { fill: currentColor; }
+a.chip i   { color: currentColor; }
+
+/* 保留你站点的蓝 */
+a.chip--pdf  { --chip-color: var(--global-link-color); }
+
+/* 红、黄（浅色主题） */
+// a.chip--pdf    { --chip-color: #B91C1C; }  /* red-700 */
+// a.chip--poster { --chip-color: #B45309; }  /* amber-700 */
+a.chip--slide    { --chip-color: #F87171; }  /* red-700 */
+// a.chip--slide    { --chip-color: #1ba34f; }  /* red-700 */
+a.chip--poster { --chip-color: #dfb037; }  /* amber-700 */
+a.chip--link { --chip-color: #1ba34f; }  /* green-700 */
+
+/* 深色主题：用更亮一点，避免暗背景下发灰看不清 */
+@media (prefers-color-scheme: dark) {
+  a.chip--slide    { --chip-color: #F87171; } /* red-400 */
+  a.chip--poster { --chip-color: #FBBF24; } /* amber-400 */
+  a.chip--link { --chip-color: #4ADE80; } /* green-400 */
+}
+html[data-theme="dark"] a.chip--slide, .dark a.chip--slide       { --chip-color: #F87171; }
+html[data-theme="dark"] a.chip--poster, .dark a.chip--poster { --chip-color: #FBBF24; }
+html[data-theme="dark"] a.chip--link, .dark a.chip--poster { --chip-color: #4ADE80; }
+
 
 // /* 可选：给外链一个小符号（如果你不喜欢，删掉这一段） */
 // a.chip[target="_blank"]::after {

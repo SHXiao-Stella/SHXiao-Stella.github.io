@@ -32,13 +32,13 @@ author_profile: true
 ## 🏆 Award
 + *2025*, Best Poster Award, 4th Hong Kong Conference for Fintech, AI, and Big Data in Business  
     <!-- + Media: [Conference](https://cityuhkfintech.com/2025-conference/) -->
-    [Medium1](https://cityuhkfintech.com/2025-conference/){: .chip .chip--pdf target="_blank" rel="noopener"}
+    [Medium1](https://cityuhkfintech.com/2025-conference/){: .chip .chip--poster target="_blank" rel="noopener"}
 
 + *2021*, Best Paper Award (First Prize), 18th Chinese Finance Annual Meeting  
     <!-- + Media: [SYSU1](https://bus.sysu.edu.cn/article/8845), [SYSU2](https://bus.sysu.edu.cn/article/9038), [XMU](https://sm.xmu.edu.cn/info/1585/14804.htm) -->
-    [Medium1, SYSU](https://bus.sysu.edu.cn/article/8845){: .chip .chip--pdf target="_blank" rel="noopener"}
-    [Medium2, SYSU](https://bus.sysu.edu.cn/article/9038){: .chip .chip--pdf target="_blank" rel="noopener"}
-    [Medium3, XMU](https://sm.xmu.edu.cn/info/1585/14804.htm){: .chip .chip--pdf target="_blank" rel="noopener"}
+    [Medium1, SYSU](https://bus.sysu.edu.cn/article/8845){: .chip .chip--poster target="_blank" rel="noopener"}
+    [Medium2, SYSU](https://bus.sysu.edu.cn/article/9038){: .chip .chip--poster target="_blank" rel="noopener"}
+    [Medium3, XMU](https://sm.xmu.edu.cn/info/1585/14804.htm){: .chip .chip--poster target="_blank" rel="noopener"}
 
 + *2021*, Best Paper award, 19th Conference on Financial Systems Engineering and Risk Management
 
