@@ -22,6 +22,13 @@ redirect_from:
   </div>
 </div>
 
+<span>
+
+<!-- <div style="text-align: center;">
+  <div style="position: relative; display: inline-block;">
+    <img src="/files/sparse/Dynamic_cat.gif" alt="Profile Image" width="350" height="350" style="display: block;" />
+  </div>
+</div> -->
 
 
 ## 📝 Publications
@@ -51,10 +58,36 @@ redirect_from:
 
 ## 💻 Working Papers
 
-* Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. Schrödinger's Sparsity in the Cross Section of Stock Returns.  
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px;">
+
+  <div style="flex: 1; min-width: 600px;">
+    <!-- <h2 style="margin-top: 0;">💻 Working Papers</h2> -->
+    
+    <ul style="padding-left: 40px; margin-bottom: 0;">
+      <li>
+        Doron Avramov, Guaohao Feng, Jingyu He, <strong>Shuhua Xiao</strong>. 2025. Schrödinger's Sparsity in the Cross Section of Stock Returns.
+        <br>
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960" class="chip chip--pdf" target="_blank" rel="noopener">PDF</a>
+        <a href="../files/sparse/BayesIPCA_2512.pdf" class="chip chip--slide" target="_blank" rel="noopener">Slide</a>
+        <a href="../files/sparse/Sparsity_poster_hkust.pdf" class="chip chip--poster" target="_blank" rel="noopener">Poster</a>
+      </li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; display: flex; justify-content: center;">
+    <img src="/files/sparse/Dynamic_cat.gif" alt="Dynamic Cat" style="width: 100%; max-width: 250px; height: auto; display: block;" />
+  </div>
+
+</div>
+
+
+
+<!-- ## 💻 Working Papers -->
+
+<!-- * Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. Schrödinger's Sparsity in the Cross Section of Stock Returns.  
 [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960){: .chip .chip--pdf target="_blank" rel="noopener"}
 [Slide](../files/sparse/BayesIPCA_2512.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
-[Poster](../files/sparse/Sparsity_poster_hkust.pdf){: .chip .chip--poster target="_blank" rel="noopener"}
+[Poster](../files/sparse/Sparsity_poster_hkust.pdf){: .chip .chip--poster target="_blank" rel="noopener"} -->
 
 
 <!-- * Siddhartha Chib, **Shuhua Xiao**, Lingxiao Zhao. 2025. Factors or Fake? A New Look at Anomalies and the Replication Crisis -->
@@ -68,4 +101,3 @@ redirect_from:
     * 📍 *Melbourne, Australia*
  -->
 
-<span>
