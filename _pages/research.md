@@ -44,12 +44,14 @@ redirect_from:
 [Slide](../files/others/OptimalBailout.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 
 
+* (In Chinese) **Shuhua Xiao**, Jiali Ma. Credit asset securitization, interconnectedness level of banking system and systemic risk. *Journal of Systems Engineering*. (信贷资产证券化、银行关联水平与系统性风险. 系统工程学报). 2025.  
+[Paper](https://jse.tju.edu.cn/ch/reader/create_pdf.aspx?file_no=20250602&flag=1&journal_id=jse&year_id=2025){: .chip .chip--pdf target="_blank" rel="noopener"}
+[Slide](../files/others/CAS_CN.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
+
+
 * (In Chinese) Shuxian Li, Xiaochuan Pang, Jiali Ma, **Shuhua Xiao**, Shushang Zhu. Local Government Implicit Debt and Banking Systemic Risk: A Perspective on Local Financing Platforms. *Systems Engineering-Theory & Practice*. (地方政府隐性债务与银行体系系统性风险——基于地方融资平台视角的研究. 系统工程理论与实践.) 2024.  
 [Paper](https://kns.cnki.net/kcms/detail/11.2267.n.20240805.1740.008.html){: .chip .chip--pdf target="_blank" rel="noopener"}
 
-
-* (In Chinese) **Shuhua Xiao**, Jiali Ma. Credit asset securitization, interconnectedness level of banking system and systemic risk. *Journal of Systems Engineering*. (信贷资产证券化、银行关联水平与系统性风险. 系统工程学报). 2024, Forthcoming.  
-[Slide](../files/others/CAS_CN.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 
 
 
