@@ -34,7 +34,7 @@ redirect_from:
 ## 📝 Publications
 
 ### (Research conducted prior to my PhD)
-* **Shuhua Xiao**, Shushang Zhu, Ying Wu. Asset Securitization, Cross Holdings, and Systemic Risk in Banking. *Journal of Financial Stability*. 2023.
+* **Shuhua Xiao**, Shushang Zhu, Ying Wu. Asset Securitization, Cross Holdings, and Systemic Risk in Banking. *Journal of Financial Stability*. 2023.  
 [Paper](https://doi.org/10.1016/j.jfs.2023.101140){: .chip .chip--pdf target="_blank" rel="noopener"}
 [Slide](../files/others/SystemicRisk.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 
@@ -44,7 +44,7 @@ redirect_from:
 [Slide](../files/others/OptimalBailout.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 
 
-* **Shuhua Xiao**, Jiali Ma. Credit asset securitization, interconnectedness level of banking system and systemic risk. *Journal of Systems Engineering*. (信贷资产证券化、银行关联水平与系统性风险. 系统工程学报). 2025.  
+* **Shuhua Xiao**, Jiali Ma. Credit Asset Securitization, Interconnectedness Level of Banking System and Systemic Risk. *Journal of Systems Engineering*. (信贷资产证券化、银行关联水平与系统性风险. 系统工程学报). 2025.  
 [Paper](https://jse.tju.edu.cn/ch/reader/create_pdf.aspx?file_no=20250602&flag=1&journal_id=jse&year_id=2025){: .chip .chip--pdf target="_blank" rel="noopener"}
 [Slide](../files/others/CAS_CN.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 
