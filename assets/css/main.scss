@@ -258,3 +258,57 @@ html[data-theme="dark"] a.chip--link, .dark a.chip--poster { --chip-color: #4ADE
     margin-left: -2rem !important;   /* 调大：-3rem；调小：-1rem */
   }
 }
+
+
+
+// 加CV预览框
+/* PDF preview block (dark-mode friendly) */
+.pdf-block{
+  margin: 1rem 0 1.6rem 0;
+}
+
+.pdf-head{
+  display:flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: .55rem;
+}
+
+.pdf-title{
+  font-weight: 650;
+  font-size: 1.02rem;
+}
+
+.pdf-actions{
+  display:flex;
+  gap: .45rem;
+  flex-wrap: wrap;
+}
+
+.pdf-frame{
+  border: 1px solid var(--global-border-color);
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--global-bg-color);
+  aspect-ratio: 4 / 3;   /* 你也可以改成 16/9 或 3/4 */
+}
+
+.pdf-frame iframe{
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display:block;
+}
+
+.pdf-note{
+  margin-top: .45rem;
+  font-size: .92rem;
+  color: var(--global-text-color);
+  opacity: .75;
+}
+
+/* 可选：download chip 微区分 */
+a.chip--download{
+  /* 只改字体颜色也行；你之前在玩蓝红绿/黄，可以继续沿用 */
+}

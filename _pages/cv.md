@@ -34,14 +34,43 @@ redirect_from:
 
 <!-- <br> -->
 
-## 📖 Education
+<!-- ## 📖 Education
 * 2023-present, Phd, Department of Decision Analytics and Operations, City University of Hong Kong. Mentor: [Jingyu He](https://jingyuhe.com/), [Guaohao Feng](https://gavinfeng702.com/)
 * 2020-2023, Master of Finance, School of Business, Sun Yat-sen University. Mentor: [Shushang Zhu](https://bus.sysu.edu.cn/en/teacher/ZhuShushang)
-* 2016-2020, Bachelor of Financial Management, School of Business, Sun Yat-sen University.
+* 2016-2020, Bachelor of Financial Management, School of Business, Sun Yat-sen University. 
+-->
+
+
+
+## 📖 Curriculum Vitae
+
+<div class="pdf-block">
+  <div class="pdf-head">
+    <div class="pdf-title">Preview</div>
+    <div class="pdf-actions">
+      <a class="chip chip--poster" href="/files/others/CV_Shuhua.pdf" target="_blank" rel="noopener">Open</a>
+      <a class="chip chip--link" href="/files/others/CV_Shuhua.pdf" download>Download</a>
+    </div>
+  </div>
+
+  <div class="pdf-frame">
+    <iframe
+      src="/files/others/CV_Shuhua.pdf#view=FitH"
+      loading="lazy"
+      title="PDF Preview"
+    ></iframe>
+  </div>
+
+  <!-- <div class="pdf-note">
+    If the preview doesn’t load, use <a href="/files/others/CV_Shuhua.pdf" target="_blank" rel="noopener">Open</a>.
+  </div> -->
+</div>
+
 
 <!-- ## 🥰 *Hobbies* -->
 ## 🤓 Hobbies
 *  💪 🏊🏻 🎶 🎻 🍽️ 📚 🤔 📸 ✍️
+
 
 <!-- Work experience
 ======
