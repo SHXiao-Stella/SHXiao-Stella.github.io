@@ -39,17 +39,17 @@ redirect_from:
 [Slide](../files/others/SystemicRisk.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 
 
-* **Shuhua Xiao**, Jiali Ma, Li Xia, Shushang Zhu. Optimal Systemic Risk Bailout: A PGO Approach Based on Neural Network. *Journal of the Operations Research Society of China*. Forthcoming. 2025.  
-[Paper](http://arxiv.org/abs/2212.05235){: .chip .chip--pdf target="_blank" rel="noopener"}
+* **Shuhua Xiao**, Jiali Ma, Li Xia, Shushang Zhu. Optimal Systemic Risk Bailout: A PGO Approach Based on Neural Network. *Journal of the Operations Research Society of China*. 2026.  
+[Paper](https://doi.org/10.1007/s40305-025-00663-3){: .chip .chip--pdf target="_blank" rel="noopener"}
 [Slide](../files/others/OptimalBailout.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 
 
-* **Shuhua Xiao**, Jiali Ma. Credit Asset Securitization, Interconnectedness Level of Banking System and Systemic Risk. *Journal of Systems Engineering*. (信贷资产证券化、银行关联水平与系统性风险. 系统工程学报). 2025.  
+* **Shuhua Xiao**, Jiali Ma. Credit Asset Securitization, Interconnectedness Level of Banking System and Systemic Risk. *Journal of Systems Engineering*. (信贷资产证券化、银行关联水平与系统性风险. 系统工程学报 (NSFC管科A级期刊)). 2025.  
 [Paper](https://jse.tju.edu.cn/ch/reader/create_pdf.aspx?file_no=20250602&flag=1&journal_id=jse&year_id=2025){: .chip .chip--pdf target="_blank" rel="noopener"}
 [Slide](../files/others/CAS_CN.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 
 
-* Shuxian Li, Xiaochuan Pang, Jiali Ma, **Shuhua Xiao**, Shushang Zhu. Local Government Implicit Debt and Banking Systemic Risk: A Perspective on Local Financing Platforms. *Systems Engineering-Theory & Practice*. (地方政府隐性债务与银行体系系统性风险——基于地方融资平台视角的研究. 系统工程理论与实践.) 2024.  
+* Shuxian Li, Xiaochuan Pang, Jiali Ma, **Shuhua Xiao**, Shushang Zhu. Local Government Implicit Debt and Banking Systemic Risk: A Perspective on Local Financing Platforms. *Systems Engineering-Theory & Practice*. (地方政府隐性债务与银行体系系统性风险——基于地方融资平台视角的研究. 系统工程理论与实践 (NSFC管科A级期刊)) 2024.  
 [Paper](https://kns.cnki.net/kcms/detail/11.2267.n.20240805.1740.008.html){: .chip .chip--pdf target="_blank" rel="noopener"}
 
 
