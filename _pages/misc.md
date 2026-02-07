@@ -70,3 +70,6 @@ I’d like to share some personal notes, possibly in a mix of Chinese and Englis
 
   * The Return of the Beast Tide: Tencent vs. Alibaba?  
   [Link](https://mp.weixin.qq.com/s?__biz=MzUxMTE2NDIzNA==&mid=2247484339&idx=1&sn=1546b88bdb4974c1e7fd9e9e91c7cceb&chksm=f976a996ce012080b609d06f1ccda24282cf4a97b6966735922827016925851997b111a3fdc3&mpshare=1&scene=1&srcid=1105tGWgbXViaU0OxIMfJvOX&sharer_shareinfo=f94e80d1d171a26585f7dca5e1176451&sharer_shareinfo_first=f94e80d1d171a26585f7dca5e1176451#rd){: .chip .chip--link target="_blank" rel="noopener"} (兽潮归处，腾讯阿里?)
+
+
+{% include clustrmaps.html %}
