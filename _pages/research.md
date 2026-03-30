@@ -60,7 +60,7 @@ redirect_from:
 
 ## 💻 Working Papers
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 25px;">
 
   <div style="flex: 1; min-width: 600px;">
     <!-- <h2 style="margin-top: 0;">💻 Working Papers</h2> -->
@@ -83,23 +83,24 @@ redirect_from:
 </div>
 
 
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 25px;">
 
-<!-- ## 💻 Working Papers -->
+  <div style="flex: 1; min-width: 600px;">
+    <!-- <h2 style="margin-top: 0;">💻 Working Papers</h2> -->
+    
+    <ul style="padding-left: 40px; margin-bottom: 0;">
+      <li>
+        Siddhartha Chib, <strong>Shuhua Xiao</strong>, Lingxiao Zhao. 2025. Factors or Fake? A New Look at Anomalies.
+        <br>
+        <a href="https://papers.ssrn.com/" class="chip chip--pdf" target="_blank" rel="noopener">PDF</a>
+        <a href="../files/anomaly/Anomaly_2601.pdf" class="chip chip--slide" target="_blank" rel="noopener">Slide</a>
+        <a href="../files/anomaly/Anomaly_poster_cityu.pdf" class="chip chip--poster" target="_blank" rel="noopener">Poster</a>
+      </li>
+    </ul>
+  </div>
 
-<!-- * Doron Avramov, Guaohao Feng, Jingyu He, **Shuhua Xiao**. 2025. Schrödinger's Sparsity in the Cross Section of Stock Returns.  
-[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960){: .chip .chip--pdf target="_blank" rel="noopener"}
-[Slide](../files/sparse/BayesIPCA_2512.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
-[Poster](../files/sparse/Sparsity_poster_hkust.pdf){: .chip .chip--poster target="_blank" rel="noopener"} -->
+  <div style="flex: 1; min-width: 250px; display: flex; justify-content: center;">
+    <img src="/files/anomaly/Gold.png" alt="Gold Panning" style="width: 50%; max-width: 140px; height: auto; display: block;" />
+  </div>
 
-
-<!-- * Siddhartha Chib, **Shuhua Xiao**, Lingxiao Zhao. 2025. Factors or Fake? A New Look at Anomalies and the Replication Crisis -->
-
-
-
-
-<!-- * 🎓 **Deakin University**
-    * Phd
-    * 11/2023~Now
-    * 📍 *Melbourne, Australia*
- -->
-
+</div>
