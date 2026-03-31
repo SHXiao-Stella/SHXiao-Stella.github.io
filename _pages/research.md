@@ -92,7 +92,7 @@ redirect_from:
       <li>
         Siddhartha Chib, <strong>Shuhua Xiao</strong>, Lingxiao Zhao. 2025. Factors or Fake? A New Look at Anomalies.
         <br>
-        <a href="https://papers.ssrn.com/" class="chip chip--pdf" target="_blank" rel="noopener">PDF</a>
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6494339" class="chip chip--pdf" target="_blank" rel="noopener">PDF</a>
         <a href="../files/anomaly/Anomaly_2601.pdf" class="chip chip--slide" target="_blank" rel="noopener">Slide</a>
         <a href="../files/anomaly/Anomaly_poster_cityu.pdf" class="chip chip--poster" target="_blank" rel="noopener">Poster</a>
       </li>

@@ -33,7 +33,7 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 
 
 + Factors or Fake? A New Look at Anomalies (with: [Siddhartha Chib](https://apps.olin.wustl.edu/faculty/chib/), [Lingxiao Zhao](http://zhaolingxiao.com/))  
-[PDF](https://papers.ssrn.com/){: .chip .chip--pdf target="_blank" rel="noopener"}
+[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6494339){: .chip .chip--pdf target="_blank" rel="noopener"}
 [Slide](../files/anomaly/Anomaly_2601.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 [Poster](../files/anomaly/Anomaly_poster_cityu.pdf){: .chip .chip--poster target="_blank" rel="noopener"}
   + Best poster award in 4th Hong Kong Conference for Fintech, AI, and Big Data in Business  
