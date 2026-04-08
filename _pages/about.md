@@ -29,7 +29,7 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 [Slide](../files/sparse/BayesIPCA_2512.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 [Poster](../files/sparse/Sparsity_poster_hkust.pdf){: .chip .chip--poster target="_blank" rel="noopener"}
 <!-- [Link](../files/sparse/Sparsity_poster_hkust.pdf){: .chip .chip--link target="_blank" rel="noopener"} -->
-  + 2025 CICF, 2025 SoFiE Financial Machine Learning Summer School at Yale, 2025 FIRN Melbourne Asset Pricing Meeting
+  + 2025 CICF, 2025 SoFiE Financial Machine Learning Summer School at Yale, 2025 FIRN Melbourne Asset Pricing Meeting, 2026 SoFiE Poster Session
 
 
 + Factors or Fake? A New Look at Anomalies (with: [Siddhartha Chib](https://apps.olin.wustl.edu/faculty/chib/), [Lingxiao Zhao](http://zhaolingxiao.com/))  
@@ -37,7 +37,7 @@ I am currently pursuing a PhD in the Department of Decision Analytics and Operat
 [Slide](../files/anomaly/Anomaly_2601.pdf){: .chip .chip--slide target="_blank" rel="noopener"}
 [Poster](../files/anomaly/Anomaly_poster_cityu.pdf){: .chip .chip--poster target="_blank" rel="noopener"}
   + Best Poster Award in 2025 Hong Kong Conference for Fintech, AI, and Big Data in Business  
-  + 2026 SoFie Conference
+  + 2026 SoFiE Conference
 
 
 <!-- ## Other Publications and working papers (before PhD)
