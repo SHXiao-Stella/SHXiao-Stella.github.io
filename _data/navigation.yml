@@ -3,7 +3,6 @@ main:
 - title: "RESEARCH"
   url: /research/
 
-# - title: "Curriculum Vitae"
 - title: "CV"
   url: /cv/
 
@@ -15,21 +14,3 @@ main:
   
 - title: "MISC."
   url: /misc/
-  
-# - title: "Misc"
-#   url: /misc/
-
-#- title: "Working Papers"
-#    url: /teaching/   
-    
-#  - title: "Presentations"
-#    url: /talks/    
- 
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "Guide"
-#    url: /markdown/
