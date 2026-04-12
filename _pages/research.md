@@ -72,7 +72,7 @@ redirect_from:
 <div class="paper-highlight">
   <div class="paper-highlight__content">
     <h3 class="research-card__title">Schrödinger's Sparsity in the Cross Section of Stock Returns</h3>
-    <p class="research-card__authors">Doron Avramov, Guaohao Feng, Jingyu He, <strong>Shuhua Xiao</strong>. 2025.</p>
+    <p class="research-card__authors">Doron Avramov, Guanhao Feng, Jingyu He, <strong>Shuhua Xiao</strong>. 2025.</p>
     <div class="research-card__actions action-row">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5370960" class="chip chip--pdf" target="_blank" rel="noopener">PDF</a>
       <a href="../files/sparse/BayesIPCA_2512.pdf" class="chip chip--slide" target="_blank" rel="noopener">Slide</a>
