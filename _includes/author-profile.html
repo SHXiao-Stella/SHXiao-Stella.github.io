@@ -22,7 +22,7 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div> -->
 
-  <div class="author__content">
+  <div class="author__content author__content--compact">
     <h3 class="author__name">
       <span class="author__name-en">{{ author.name_en }}</span><br>
       <span class="author__name-zh">{{ author.name_zh }}</span>
@@ -32,9 +32,9 @@
     {% endif %}
   </div>
 
-  <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
+  <div class="author__urls-wrapper author__urls-wrapper--compact">
+    <button class="btn btn--inverse author__menu-toggle">Follow</button>
+    <ul class="author__urls social-icons author__links-list">
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
@@ -173,15 +173,10 @@
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
       {% if author.SSRN %}
-      <!-- <li><a href="https://papers.ssrn.com/sol3/cf_dev/{{ author.SSRN }}"><i class="fas fa-fw fa-lightbulb icon-pad-right" aria-hidden="true"></i>SSRN</a></li> -->
       <li><a href="https://papers.ssrn.com/sol3/cf_dev/{{ author.SSRN }}"><i class="fas fa-fw fa-file-alt icon-pad-right" aria-hidden="true"></i>SSRN</a></li>
       {% endif %}      
-      <!-- {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw icon-pad-right"></i>Google Scholar</a></li>
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right" aria-hidden="true"></i>Google Scholar</a></li>
-      {% endif %} -->
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fa-brands fa-google-scholar icon-pad-right1"  aria-hidden="true"></i>Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap icon-pad-right" aria-hidden="true"></i>Google Scholar</a></li>
       {% endif %}
     </ul>
   </div>
