@@ -7,20 +7,15 @@ author_profile: true
 ---
 
 ## 📘 Note
-<!-- *The only thing to do with good advice is to pass it on. It is never of any use to oneself.*
-— Oscar Wilde -->
 
-<div class="quote-container">
-  <blockquote style="font-size: 1.2em; font-family: 'Lobster', color:rgb(117, 146, 212);">
+<div class="quote-callout">
+  <blockquote class="quote-callout__body">
     The only thing to do with good advice is to pass it on. It is never of any use to oneself.
-    <footer style="text-align: right; font-family: 'Dancing Script', cursive; font-size: 1.2em;">
-      — Oscar Wilde
+    <footer class="quote-callout__cite">
+      &mdash; Oscar Wilde
     </footer>
   </blockquote>
 </div>
-
-<link href="https://fonts.googleapis.com/css2?family=Dancing Script:wght@400;700&display=swap" rel="stylesheet">
-
 
 I’d like to share some personal notes, possibly in a mix of Chinese and English or purely in Chinese/English.
 

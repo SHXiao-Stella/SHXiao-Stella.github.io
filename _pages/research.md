@@ -10,26 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="font-family: 'euclid';">
-
-
-<div style="text-align: center;">
-  <div style="position: relative; display: inline-block;">
-    <img src="/images/rach2.png" alt="Profile Image" width="350" height="350" style="display: block;" />
+<div class="page-special-copy page-hero-figure">
+  <div class="page-hero-figure__frame">
+    <img class="page-hero-figure__image" src="/images/rach2.png" alt="Profile Image" width="350" height="350" />
   </div>
-  <div style="text-align: right; font-style: italic; color: #d3d3d3; font-size: 14px; margin-top: 5px;">
+  <div class="page-hero-figure__caption">
     Dong De Dou Dong
   </div>
 </div>
-
-<span>
-
-<!-- <div style="text-align: center;">
-  <div style="position: relative; display: inline-block;">
-    <img src="/files/sparse/Dynamic_cat.gif" alt="Profile Image" width="350" height="350" style="display: block;" />
-  </div>
-</div> -->
-
 
 ## 📝 Publications
 
@@ -53,19 +41,11 @@ redirect_from:
 [Paper](https://kns.cnki.net/kcms/detail/11.2267.n.20240805.1740.008.html){: .chip .chip--pdf target="_blank" rel="noopener"}
 
 
-
-
-<!-- <br> -->
-
-
 ## 💻 Working Papers
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 25px;">
-
-  <div style="flex: 1; min-width: 600px;">
-    <!-- <h2 style="margin-top: 0;">💻 Working Papers</h2> -->
-    
-    <ul style="padding-left: 40px; margin-bottom: 0;">
+<div class="paper-highlight">
+  <div class="paper-highlight__content">
+    <ul class="paper-highlight__list">
       <li>
         Doron Avramov, Guaohao Feng, Jingyu He, <strong>Shuhua Xiao</strong>. 2025. Schrödinger's Sparsity in the Cross Section of Stock Returns.
         <br>
@@ -76,19 +56,15 @@ redirect_from:
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 250px; display: flex; justify-content: center;">
-    <img src="/files/sparse/Dynamic_cat.gif" alt="Dynamic Cat" style="width: 100%; max-width: 250px; height: auto; display: block;" />
+  <div class="paper-highlight__media">
+    <img class="paper-highlight__image" src="/files/sparse/Dynamic_cat.gif" alt="Dynamic Cat" />
   </div>
-
 </div>
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 25px;">
-
-  <div style="flex: 1; min-width: 600px;">
-    <!-- <h2 style="margin-top: 0;">💻 Working Papers</h2> -->
-    
-    <ul style="padding-left: 40px; margin-bottom: 0;">
+<div class="paper-highlight">
+  <div class="paper-highlight__content">
+    <ul class="paper-highlight__list">
       <li>
         Siddhartha Chib, <strong>Shuhua Xiao</strong>, Lingxiao Zhao. 2025. Factors or Fake? A New Look at Anomalies.
         <br>
@@ -99,8 +75,7 @@ redirect_from:
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 250px; display: flex; justify-content: center;">
-    <img src="/files/anomaly/Gold.png" alt="Gold Panning" style="width: 50%; max-width: 140px; height: auto; display: block;" />
+  <div class="paper-highlight__media">
+    <img class="paper-highlight__image paper-highlight__image--narrow" src="/files/anomaly/Gold.png" alt="Gold Panning" />
   </div>
-
 </div>
