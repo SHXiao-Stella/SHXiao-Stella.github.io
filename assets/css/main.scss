@@ -274,12 +274,25 @@ html[data-theme="dark"] {
 
 .sidebar .author__avatar {
   @media (min-width: 57.8125em) {
+    width: 155px;
+  }
+
+  @media (min-width: 57.8125em) {
     margin-bottom: 0.95rem;
   }
 }
 
 .sidebar .author__avatar img {
+  width: 100%;
+  max-width: 155px;
+  aspect-ratio: 1 / 1;
+  display: block;
+  object-fit: cover;
+  padding: 0 !important;
+  border-width: 1px;
+  border-style: solid;
   border-color: var(--surface-card-border);
+  border-radius: 22px;
   box-shadow: 0 12px 30px rgba(31, 41, 55, 0.09);
 }
 
@@ -321,7 +334,7 @@ html[data-theme="dark"] {
 
 .sidebar .author__desktop,
 .sidebar .author__links-list a {
-  font-size: 0.78rem;
+  font-size: 0.76rem;
   line-height: 1.4;
   color: var(--global-text-color-light);
 }
