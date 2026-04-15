@@ -15,5 +15,6 @@ author_profile: true
 
 
 ## 🛠️ R Package
-* (coming soon)
+* R package for computing option-implied SVIX, LVIX, and VIX-style lower-bound volatility measures.
+    [Code](https://github.com/SHXiao-Stella/svixr){: .chip .chip--pdf target="_blank" rel="noopener"}
 <br>
